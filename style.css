@@ -1,0 +1,18 @@
+ #body
+ {
+    background-size: cover;
+ }
+
+#myCanvas
+{
+   box-shadow: gray 10px 10px 10px ;
+   border-radius: 20px;
+   border-style: ridge;
+
+}
+
+#hbd{
+    size-adjust: 50%;
+}
+
+
